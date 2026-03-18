@@ -1,4 +1,5 @@
-## Welcome to my OLD pages - transition to a new home at: 
+## Welcome to my OLD portfolio 
+## - transitioning to a new home at: https://thanhnguyen93.github.io
 
 # Bioinformatics
 #### ISCVAM - Interactive Single-cell Visual Analytics tools for Multiomics
